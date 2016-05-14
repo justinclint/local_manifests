@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<manifest>
-<project path="kernel/xiaomi/ferrari" name="InfinitiveOS-Devices/android_kernel_xiaomi_ferrari" remote="github" revision="m-6.0" />
-<project path="vendor/xiaomi/ferrari" name="InfinitiveOS-Devices/android_vendor_xiaomi_ferrari" remote="github" revision="io-1.0" />
-<project path="device/xiaomi/ferrari" name="InfinitiveOS-Devices/device_xiaomi_ferrari" remote="github" revision="cm-13.0" />
-<project path="device/qcom/common" name="CyanogenMod/android_device_qcom_common" remote="github" revision="cm-13.0" />
-</manifest>
-
