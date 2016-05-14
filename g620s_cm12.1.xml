@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<manifest>
-<project path="device/huawei/g620s" name="surdupetru/android_device_huawei_g620s" remote="github" revision="cm-12.1" />
-<project path="kernel/huawei/msm8916" name="surdupetru/android_kernel_huawei_msm8916" remote="github" revision="cm-12.1" />
-<project path="vendor/huawei/g620s" name="surdupetru/android_vendor_huawei_g620s" remote="github" revision="cm-12.1" />
-<project path="device/qcom/common" name="CyanogenMod/android_device_qcom_common" remote="github" revision="cm-12.1" />
-<project path="hardware/qcom/fm" name="CyanogenMod/android_hardware_qcom_fm" remote="github" revision="cm-12.1" />
-<project path="external/mm-dash" name="CyanogenMod/android_external_mm-dash" remote="github" revision="cm-12.1" />
-</manifest>
