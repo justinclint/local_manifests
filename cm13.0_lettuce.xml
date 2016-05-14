@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<manifest>
-  <project name="CyanogenMod/android_device_qcom_common" path="device/qcom/common" remote="github" revision="cm-13.0" />
-  <project name="TheStrix/android_device_yu_lettuce" path="device/yu/lettuce" remote="github" revision="cm-13.0" />
-  <project name="TheStrix/android_device_cyanogen_msm8916-common" path="device/cyanogen/msm8916-common" remote="github" revision="cm-13.0" />
-  <project name="TheStrix/android_kernel_cyanogen_msm8916" path="kernel/cyanogen/msm8916" remote="github" revision="cm-13.0-amss-1.0.2" />
-  <project name="TheStrix/proprietary_vendor_yu" path="vendor/yu" remote="github" revision="cm-13.0-new" />
-</manifest>
