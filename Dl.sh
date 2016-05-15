@@ -7,7 +7,7 @@
 # DESCRIPTION:  extracts PDF links from websites and dumps them to the stdout and as a textfile
 #               only works for links pointing to files with the ".pdf" extension
 #
-# USAGE:        pdflinkextractor "www.website.com"
+# USAGE:        pdflinkextractor "www.crackca.com/2015/07/ca-ipcc-podcasts-free-download-all.html"
 
 WEBSITE="$1"
 
