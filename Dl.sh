@@ -13,7 +13,7 @@ WEBSITE="$1"
 
 echo "Getting link list..."
 
-lynx -cache=0 -dump -listonly "$WEBSITE" | grep ".*\.pdf$" | awk '{print $2}' | tee pdflinks.txt
+lynx -cache=0 -dump -listonly "$WEBSITE" | grep ".*\.zip$" | awk '{print $2}' | tee pdflinks.txt
 
 # OPTIONAL
 #
